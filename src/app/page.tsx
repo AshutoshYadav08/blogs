@@ -1,5 +1,5 @@
 "use client";
-import React, { useState } from "react";
+import React, { JSX, useState } from "react";
 
 // Coming Soon landing page — React + TypeScript + Tailwind only (no external UI libs)
 // Drop this into /app/page.tsx (Next.js App Router) or /pages/index.tsx (Pages Router)
