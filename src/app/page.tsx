@@ -93,7 +93,7 @@ export default function ComingSoon(): JSX.Element {
 
           {/* Footer */}
           <footer className="mt-8 flex flex-col items-center gap-2 text-xs text-slate-400 sm:flex-row sm:justify-between">
-            <p>© {new Date().getFullYear()} YourCompany. All rights reserved.</p>
+            <p>© {new Date().getFullYear()} Ashutosh Yadav. All rights reserved.</p>
             <div className="flex items-center gap-4">
               <a href="#" className="underline-offset-2 hover:underline">Privacy</a>
               <a href="#" className="underline-offset-2 hover:underline">Terms</a>
